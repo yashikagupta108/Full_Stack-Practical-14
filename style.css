@@ -1,0 +1,29 @@
+body
+{
+    background-color:lightsteelblue;
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+.container
+{
+    text-align: center;
+}
+.button
+{
+    background-color: cadetblue;
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+#value
+{
+    font-size: 30px;
+}
+button:hover 
+{
+    box-shadow:5px 5px 20px darkblue;
+}
